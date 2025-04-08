@@ -1,0 +1,2253 @@
+Puesto,Sexo,Sueldo_normalizado
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 5)	1.0",0,0.3690168744431508
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 4)	1.0",1,0.06341219336527273
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 4)	1.0",0,0.07209440417438229
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 3)	1.0",0,0.09495280474517794
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.2268999154649609
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.2635191509973972
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.3624706219221619
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 1)	1.0",1,0.09884210865365683
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.13791758086574635
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.4192322582230889
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.221872844642664
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.12756529948003897
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.2670955856418385
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 0)	1.0",1,0.21034601690186136
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 0)	1.0",0,0.4031755697907422
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.1151559426127139
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 4)	1.0",1,0.08540621051700359
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.29163572505588564
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 3)	1.0",0,0.11008774447791517
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.41942396385126623
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.1894172282001508
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.21757204577900233
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 2)	1.0",0,0.10776735659101341
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.22175753732314704
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.2789986373416654
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 0)	1.0",1,0.22862690766177432
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 9)	1.0",0,0.16164653173418037
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.06269013617976335
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 1)	1.0",0,0.10569564031853748
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.23696741128545878
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 4)	1.0",1,0.06854858209264462
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.14150759151625622
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.1283450325083233
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 0)	1.0",1,0.20081299867975558
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.11042026789452916
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.06284115815576789
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 1)	1.0",0,0.1261550807581587
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 4)	1.0",1,0.0776276914321116
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 0)	1.0",0,0.2079297096518216
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 9)	1.0",0,0.12703951762409602
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 0)	1.0",1,0.2460402206482534
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 3)	1.0",0,0.09176519401310555
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 0)	1.0",1,0.22717085882790441
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 4)	1.0",1,0.08594987188420679
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 3)	1.0",0,0.11085168319848575
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 2)	1.0",0,0.06127836464673147
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.23737699850122668
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.16861679043163094
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 5)	1.0",0,0.34891129748197025
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 2)	1.0",0,0.10885179553328106
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.09886340434945066
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 1)	1.0",0,0.08584428072589574
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 1)	1.0",1,0.12456828522532133
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 5)	1.0",0,0.74026944201639
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.25409931052522905
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.10498085916242432
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.2510288704860556
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.10922961666948983
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 0)	1.0",1,0.3277686201356305
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.41677313775129693
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.1470271253037853
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 1)	1.0",0,0.13633859375470003
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.15989655793232282
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 3)	1.0",0,0.0836045059207802
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.13683323065554454
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 5)	1.0",1,0.4755118575765161
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.1826026499121597
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.1556164336399943
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 5)	1.0",0,0.39590348897144717
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 4)	1.0",1,0.07722125420467986
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.34617706324014186
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 2)	1.0",0,0.09246981534768374
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.2120349430424433
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 0)	1.0",0,0.2613836363696056
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 0)	1.0",1,0.13606445603738743
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 1)	1.0",1,0.11503167335455036
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 4)	1.0",1,0.05558096743329101
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.34741558541468437
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 1)	1.0",0,0.10127057219671225
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.0805707122247853
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.38925506147668076
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.06857302777677461
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 4)	1.0",1,0.060639582504982525
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.7576034285360371
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 1)	1.0",1,0.09671546723244599
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 1)	1.0",1,0.08295889140996407
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 9)	1.0",0,0.11444959100285247
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.18515990804873483
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 5)	1.0",0,0.2856548732582228
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.08630404592487785
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 5)	1.0",0,0.6679313352232672
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.08632658386959297
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 7)	1.0",1,0.13146170195378248
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 8)	1.0",0,0.1564166194094473
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.39525756389840067
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.9353609083608055
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 3)	1.0",0,0.11599769935499774
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.15148484682582775
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 3)	1.0",0,0.09793855002753801
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 3)	1.0",0,0.09760633717315433
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.06823864098677865
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.25678314495367877
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.23603576896051184
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 5)	1.0",1,0.4864636571648525
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.2690521720589291
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 0)	1.0",1,0.21939531226721698
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.11771115991177548
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.11724278770241005
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.09185920563682871
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.09180441358619251
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 8)	1.0",1,0.12102849692405858
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 9)	1.0",0,0.0948638064831729
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.3004535628275821
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 5)	1.0",1,0.4656894840878117
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.43784012664550287
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.1342984660976516
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.10532061424240163
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 4)	1.0",1,0.08890695670931101
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.28407300235503774
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.3279799799163842
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 3)	1.0",0,0.07902056303512646
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 3)	1.0",0,0.1107252400047099
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 2)	1.0",1,0.10383160144608423
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 4)	1.0",1,0.08719473840145457
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.3535482577769441
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 3)	1.0",0,0.10821141621434757
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 4)	1.0",1,0.10248864163008614
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 8)	1.0",0,0.17600794968323982
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.2678329934747326
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.06572739042632474
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 7)	1.0",1,0.11577813185815683
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 4)	1.0",1,0.08782424804232662
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 3)	1.0",0,0.09423749119666992
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.1878841599331599
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.08414909897467437
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.1610551325155727
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.10891430727364251
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 8)	1.0",0,0.16159471220774874
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.15991181984764172
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.15687722756305456
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,1.0
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.4561311772269508
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 3)	1.0",0,0.11265955467328277
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.22001719095042957
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.12523506233383258
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 3)	1.0",0,0.1084254379570755
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 7)	1.0",1,0.09136026523079256
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 9)	1.0",0,0.1565053958412878
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.07939257222102483
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 3)	1.0",0,0.1074939730962602
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 3)	1.0",0,0.11242632243830748
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 0)	1.0",0,0.3024563786509584
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.09999855366732735
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.5040814531969853
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 1)	1.0",0,0.11114827012844765
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.923382079476779
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.3039298189697266
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 3)	1.0",0,0.11321816739357454
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 0)	1.0",1,0.28769051994594796
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.2519598916865419
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 1)	1.0",1,0.10366496262649755
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 4)	1.0",1,0.0990821288916664
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 0)	1.0",1,0.06568027369938091
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.23805823893646458
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.15199354775910273
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 5)	1.0",1,0.3594382479392199
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.5031445313141227
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 7)	1.0",1,0.19983082344333122
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.41763760990242754
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 0)	1.0",1,0.2113126640267694
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 7)	1.0",1,0.13448591258667017
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.1559499774753651
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 4)	1.0",0,0.08073491091256228
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 3)	1.0",0,0.11444040723404139
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 8)	1.0",0,0.1702900109965649
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 0)	1.0",0,0.21905977196036552
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 4)	1.0",1,0.09578688616376942
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.12401610557980061
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.7737631792628193
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 2)	1.0",0,0.1115771122024958
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 4)	1.0",1,0.05890873046330649
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 0)	1.0",1,0.25131525322844966
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 0)	1.0",1,0.3273249598065925
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 0)	1.0",1,0.2311506250774742
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.26607130704018844
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 3)	1.0",0,0.10820516060370813
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.30660349357664135
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.08762198329831819
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 7)	1.0",1,0.07695053267190086
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 7)	1.0",1,0.134339327213956
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 3)	1.0",0,0.10987829243657632
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.5140958428760973
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 4)	1.0",1,0.07075423941845714
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.3688627024788101
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 3)	1.0",0,0.11621948515348386
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 0)	1.0",0,0.2417857842889762
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.16127416762001875
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 3)	1.0",0,0.10916306762013413
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.2893620546016316
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.3476316923609588
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 4)	1.0",1,0.07281637262782588
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 2)	1.0",1,0.09602349021724538
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.12989535916211375
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.09308441800150011
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 3)	1.0",0,0.11541113603397658
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 0)	1.0",1,0.16305435469028381
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 3)	1.0",0,0.10308944644766943
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 4)	1.0",1,0.06278725342578978
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 1)	1.0",1,0.07507651144204425
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 0)	1.0",1,0.268140450082756
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.13429904285607935
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 3)	1.0",0,0.07793066707081166
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 1)	1.0",1,0.10515996483725697
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.13627572708607535
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 4)	1.0",1,0.046432247788197975
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.2378267813428054
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 7)	1.0",1,0.13557647404147852
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 8)	1.0",0,0.1874752382078856
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 9)	1.0",0,0.14599370729935704
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 3)	1.0",0,0.14092919154528932
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 1)	1.0",0,0.11912173356191898
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.4612971137322366
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 3)	1.0",0,0.11348875582825484
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.10904744973838681
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.45597243556122097
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.14544028540491502
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 4)	1.0",1,0.08382824382471407
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.26564628044497
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 2)	1.0",0,0.09919938831663115
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 2)	1.0",0,0.03125649130518923
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.2589237173092214
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 4)	1.0",1,0.0928228358714993
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 3)	1.0",0,0.11555408339199263
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 0)	1.0",1,0.25990003622930247
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 0)	1.0",0,0.39185890394780487
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.10292626817864924
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 0)	1.0",0,0.203853003620357
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 0)	1.0",1,0.22079931974449069
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.8864041002022824
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 0)	1.0",1,0.34701629111855015
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.21529566899674113
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.12658139396833135
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 0)	1.0",0,0.2450553390838219
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 4)	1.0",1,0.043127377631160854
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 1)	1.0",1,0.08849399767504242
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 5)	1.0",1,0.4883015644439255
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 0)	1.0",0,0.2837526795974723
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.45810076289168217
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.547922813395667
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 0)	1.0",1,0.24765882662668282
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 5)	1.0",1,0.3755024785971602
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 3)	1.0",0,0.11344665246302912
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.32738676169042746
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 3)	1.0",0,0.09145205855287052
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 5)	1.0",1,0.46654570415682217
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 3)	1.0",0,0.09396787881471352
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 0)	1.0",1,0.23255574170557053
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 9)	1.0",0,0.15606182424431558
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.27891212357750295
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 1)	1.0",1,0.0792276193106885
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.11484724375576925
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.17075234942545545
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 7)	1.0",1,0.1493920566877225
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 9)	1.0",0,0.1615776312850808
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.12376792199173674
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 4)	1.0",1,0.08498153885004842
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.05955838228311687
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 0)	1.0",1,0.25487859989318434
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.10193002890979436
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.37053073221789434
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 4)	1.0",1,0.08661789124163934
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.13109679133314872
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 0)	1.0",1,0.34711123442896435
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.4498483702093446
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 4)	1.0",1,0.09442147713512199
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.13921426690942576
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 2)	1.0",1,0.08365477263606019
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.23993940309761866
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.12540715817546644
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 0)	1.0",1,0.15794817923131943
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 0)	1.0",1,0.20596580283930188
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.21678494798925596
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 2)	1.0",0,0.08940004079900386
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.18870222521387311
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.25239738513700627
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 4)	1.0",1,0.06883940143832903
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 1)	1.0",1,0.07322524998706731
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 4)	1.0",1,0.07888498043857244
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 3)	1.0",0,0.10164790530655908
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 4)	1.0",0,0.09971665189425659
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.43240808267486003
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 7)	1.0",1,0.17493939378075177
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.3608295223650502
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 0)	1.0",1,0.3398695443422083
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 0)	1.0",0,0.4359012422755409
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 4)	1.0",1,0.08502324292097797
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.6432053021313531
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 1)	1.0",1,0.09393274091665371
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 9)	1.0",0,0.14053304723749127
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 7)	1.0",1,0.18569851168818702
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.3413389473519823
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.06892507224786627
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.2973762904193415
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.22305719589103098
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 0)	1.0",1,0.2527076811711355
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.18904894576101633
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 1)	1.0",1,0.08883659218112558
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.26372842557460446
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.38995347156665244
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.2611474316104258
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.17175852668568076
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 4)	1.0",1,0.054169151534226224
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 1)	1.0",1,0.1161314185781698
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 0)	1.0",1,0.2799601823727895
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 4)	1.0",1,0.0706464743245338
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 1)	1.0",0,0.10293412096647321
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.12552880983768866
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.14190586539363365
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.9228355786834698
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.519609564713316
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 7)	1.0",1,0.1047800584975017
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.1716503622974613
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.1394619624711277
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.11343076942324956
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.11443131219729612
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 3)	1.0",0,0.11533589124217174
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.15407395977402782
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 0)	1.0",0,0.22019190438800473
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.22045424074056494
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.31002455837385356
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 1)	1.0",1,0.10031577080258954
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 0)	1.0",1,0.15518723663768294
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 0)	1.0",0,0.44185875753989634
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 0)	1.0",1,0.16232635245636534
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 1)	1.0",0,0.13830307732564748
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 8)	1.0",0,0.17715476726777024
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 3)	1.0",0,0.11621948515348386
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.5366307263349583
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.2328324526527915
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 4)	1.0",1,0.09963674866899684
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 7)	1.0",1,0.10489336934553802
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 0)	1.0",1,0.34149538198400103
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 0)	1.0",1,0.2181344296120909
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.1262868035098501
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 3)	1.0",0,0.11526348587647273
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 2)	1.0",0,0.06200774222766997
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.04119590238869383
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 0)	1.0",0,0.2148389206879965
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 8)	1.0",0,0.10154076133709641
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.22286398181773495
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 8)	1.0",0,0.1595754365861651
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.10808279908495945
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 1)	1.0",1,0.014302588589429012
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 3)	1.0",0,0.10628366771864446
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 4)	1.0",1,0.09038496672946827
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.11488149433317098
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 5)	1.0",1,0.4892477144616319
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 4)	1.0",1,0.09220543815761
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.2800713192852135
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 0)	1.0",1,0.23579033606648803
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.21134567235524981
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 1)	1.0",1,0.12129784310981756
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 0)	1.0",1,0.2734825641047028
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 0)	1.0",0,0.2338487897345518
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 4)	1.0",0,0.08456689390652947
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 1)	1.0",1,0.1581891755220529
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.0669999413481045
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 5)	1.0",1,0.33623281625905077
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 3)	1.0",0,0.10696024972042745
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 4)	1.0",1,0.08436099114782292
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 0)	1.0",0,0.242844313468028
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.14042270891365954
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.0665133790652485
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.1705335361511739
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 4)	1.0",1,0.07926843606096
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 3)	1.0",0,0.10357618619465704
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 3)	1.0",0,0.11599769935499774
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 8)	1.0",0,0.06396530469748443
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 0)	1.0",1,0.22326070288396074
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 4)	1.0",1,0.10208934733395192
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 4)	1.0",0,0.05225023187907097
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.34602417789075535
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.09312621080449549
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 8)	1.0",1,0.14455669149360292
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 2)	1.0",0,0.10491444321116733
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 1)	1.0",0,0.10211268386725933
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 1)	1.0",0,0.11976362132597118
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.1452881542780879
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 8)	1.0",1,0.11535093132732611
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 9)	1.0",0,0.16214227778584744
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 0)	1.0",1,0.13256260069425743
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 0)	1.0",1,0.2666178078334975
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 0)	1.0",1,0.21810013466865627
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 2)	1.0",1,0.11377961953997215
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.3123364723484706
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.48107779823446256
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 0)	1.0",1,0.49752251199058584
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 3)	1.0",0,0.09885146988659954
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 0)	1.0",0,0.29366857668353785
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.48694529481805615
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 1)	1.0",0,0.053578018511815956
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 9)	1.0",0,0.1378110580207443
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 2)	1.0",0,0.10959545897681458
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.14628386115454792
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.15655632804706135
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 1)	1.0",1,0.08779088478558296
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 3)	1.0",0,0.09622735213843836
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 0)	1.0",1,0.2570485869285422
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 0)	1.0",0,0.21998214178443556
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.0822066209560472
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 8)	1.0",0,0.1635112360971272
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 3)	1.0",0,0.112466207501888
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.15586142287368912
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.3427503639567509
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 9)	1.0",0,0.1567258062927539
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.14162720234096485
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 7)	1.0",1,0.12080072171113046
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 0)	1.0",1,0.3336764454431337
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.057297089952042975
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 0)	1.0",1,0.4337428791408038
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 0)	1.0",1,0.33226786826447086
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.18841743964866361
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 7)	1.0",1,0.12422409354205363
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 1)	1.0",1,0.11136845874974922
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.1594225068707457
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.10919057456053449
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.1172538348446031
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 4)	1.0",1,0.09319919292862225
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.41677313775129693
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.191326476060133
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.07371261085851558
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 4)	1.0",1,0.08145577021518326
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 2)	1.0",0,0.09531394425301487
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.11693413321149829
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 0)	1.0",1,0.24181049616930364
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 7)	1.0",1,0.11709105586987906
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 2)	1.0",1,0.005277339613907261
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 7)	1.0",1,0.11422642985734635
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 0)	1.0",1,0.23433127034238066
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.17713418142850287
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.12184993402327247
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 2)	1.0",0,0.12070755304203247
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 4)	1.0",0,0.07156817865811028
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.24528786146227075
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 0)	1.0",1,0.2572012060817313
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.12366761039134125
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 9)	1.0",0,0.11391280637074937
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.4775505655205116
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 0)	1.0",0,0.2132241301883968
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.08736514833383807
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 0)	1.0",1,0.23631740453738517
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 7)	1.0",1,0.1431879550124877
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 0)	1.0",1,0.26557737999587044
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 0)	1.0",0,0.1914955106454965
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.1892272972132896
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.13743217209974587
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 4)	1.0",1,0.09311068269297916
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.1076843921094833
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.2817675214551917
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 2)	1.0",0,0.08016077008075417
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 9)	1.0",0,0.12572038236776725
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 0)	1.0",1,0.30546798933050145
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.1847544912400599
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 3)	1.0",0,0.13602363928711594
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 1)	1.0",0,0.11950079694704906
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.17724864579339467
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.09195831935433581
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 0)	1.0",0,0.4084806825412473
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.1294966416244073
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.24069162918550263
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 0)	1.0",1,0.3511235653466855
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.18788535781604832
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.8003746356550463
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.3844718263712231
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 1)	1.0",0,0.08729815562415334
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.1862632025549866
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 4)	1.0",1,0.10059501061368606
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.18527863155278543
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.5623648887925455
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.19027411375965483
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 4)	1.0",0,0.09580228117718702
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 9)	1.0",0,0.15194612046992859
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.0807222222271518
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.06770198945277427
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 3)	1.0",0,0.11227685327345457
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.12330602722317527
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.16286806171812077
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 5)	1.0",1,0.47591833916998066
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 0)	1.0",1,0.22292942171626806
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 3)	1.0",0,0.10896772397725868
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 4)	1.0",1,0.07981640093335485
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 4)	1.0",1,0.07390245311331095
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.1232213768323948
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 1)	1.0",0,0.11810109297496701
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 0)	1.0",0,0.3428331509741494
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.09031979302713258
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.10738035168599355
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.441339586222856
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.435017071605801
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 0)	1.0",1,0.24072246357837077
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 8)	1.0",1,0.1800377608179251
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 1)	1.0",0,0.12965121288304413
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 4)	1.0",1,0.0
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.2889443927678752
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 0)	1.0",0,0.5333557588840985
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.23939787129999487
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 1)	1.0",0,0.060531773045026285
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 5)	1.0",0,0.4925100375931143
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.09254572562998215
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.1830393447740318
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 2)	1.0",1,0.08385606132734476
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.1001625305249398
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.09617043051822277
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.4141887719686176
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 3)	1.0",0,0.07744618999150214
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 2)	1.0",0,0.09219825086027957
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.3730154518906718
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 3)	1.0",0,0.11444488820336467
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 4)	1.0",1,0.08788192388510156
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 0)	1.0",1,0.33332639744352266
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 5)	1.0",1,0.26911681336886994
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.21900080950263637
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 0)	1.0",1,0.27833540951578645
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 0)	1.0",1,0.14745765328708382
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.08964813565500193
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.11172440743173644
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 1)	1.0",1,0.11425739734831321
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 4)	1.0",0,0.09850168808318596
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 0)	1.0",1,0.5685104716703802
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 0)	1.0",0,0.4113103037538189
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 1)	1.0",1,0.15322479390424906
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 0)	1.0",1,0.3342796903925267
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.22617355477425985
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.08489347227473436
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 1)	1.0",0,0.08934458325787412
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 3)	1.0",0,0.11621948515348386
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.2924072947341157
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 4)	1.0",1,0.0857225403316077
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 3)	1.0",0,0.10659241094162202
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 4)	1.0",0,0.07485689957917042
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.4006309559735447
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 0)	1.0",1,0.1971852769012775
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 0)	1.0",1,0.5218238290495119
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 1)	1.0",0,0.15554757755692764
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 3)	1.0",0,0.10251033662017608
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 0)	1.0",0,0.16628899341723424
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 7)	1.0",1,0.1651042428745711
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 0)	1.0",1,0.22941063363301997
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 0)	1.0",0,0.23230059265034075
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",0,0.17768125898023965
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 7)	1.0",1,0.15567038273600534
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.18656010004717882
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 3)	1.0",0,0.10583330811863798
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 9)	1.0",0,0.1616768781006866
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 7)	1.0",1,0.19603544242650967
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 0)	1.0",1,0.24278961014945763
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 2)	1.0",0,0.1086727785905142
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.21657607270634485
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.20695884775378767
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 6)	1.0",1,0.08141220277087172
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 3)	1.0",0,0.06697212384547381
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 5)	1.0",0,0.4883015644439255
+"<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 1 stored elements and shape (1, 10)>
+  Coords	Values
+  (0, 1)	1.0",1,0.12918182025492192

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Red_Neuronal_Paralela_v1/1.0.0": {
+        "runtime": {
+          "Red_Neuronal_Paralela_v1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Red_Neuronal_Paralela_v1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

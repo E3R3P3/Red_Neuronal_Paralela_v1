@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Red_Neuronal_Paralela_v1", "Red_Neuronal_Paralela_v1.csproj", "{43C0B8C5-5D4F-EDE4-C105-A2AA8033CE92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43C0B8C5-5D4F-EDE4-C105-A2AA8033CE92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43C0B8C5-5D4F-EDE4-C105-A2AA8033CE92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43C0B8C5-5D4F-EDE4-C105-A2AA8033CE92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43C0B8C5-5D4F-EDE4-C105-A2AA8033CE92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61AC179E-7880-4C0F-877F-8FE33D7BFB1A}
+	EndGlobalSection
+EndGlobal
