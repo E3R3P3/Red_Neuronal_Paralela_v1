@@ -12,3 +12,4 @@ C:\Users\enman\Documents\I(ITLA)I\C-1 2025\Programacion Paralela\Final\Red_Neuro
 C:\Users\enman\Documents\I(ITLA)I\C-1 2025\Programacion Paralela\Final\Red_Neuronal_Paralela_v1\obj\Debug\net8.0\Red_Neuronal_Paralela_v1.pdb
 C:\Users\enman\Documents\I(ITLA)I\C-1 2025\Programacion Paralela\Final\Red_Neuronal_Paralela_v1\obj\Debug\net8.0\Red_Neuronal_Paralela_v1.genruntimeconfig.cache
 C:\Users\enman\Documents\I(ITLA)I\C-1 2025\Programacion Paralela\Final\Red_Neuronal_Paralela_v1\obj\Debug\net8.0\ref\Red_Neuronal_Paralela_v1.dll
+C:\Users\enman\Documents\I(ITLA)I\C-1 2025\Programacion Paralela\Final\Red_Neuronal_Paralela_v1\obj\Debug\net8.0\Red_Neuronal_Paralela_v1.sourcelink.json

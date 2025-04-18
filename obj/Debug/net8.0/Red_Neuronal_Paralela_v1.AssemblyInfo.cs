@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Red_Neuronal_Paralela_v1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2f18fc8ba817b0f63b5bc1d8718fd1b2e96bd5db")]
 [assembly: System.Reflection.AssemblyProductAttribute("Red_Neuronal_Paralela_v1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Red_Neuronal_Paralela_v1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
